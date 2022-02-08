@@ -1,1 +1,1 @@
-# New-Dice-Game
+# NewDiceGame
